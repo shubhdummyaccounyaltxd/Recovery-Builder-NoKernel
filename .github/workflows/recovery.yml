@@ -9,7 +9,7 @@ on: workflow_dispatch
 #    paths:
 #      - '.config'
 #  schedule:
-#    - cron: 0 8 * * 5
+#    - cron: 5 4 * * *
   watch:
     types: [started]
 
